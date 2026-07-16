@@ -1,172 +1,200 @@
-# Hi there, I'm Nyasa Lohiya 👋
+<div align="center">
 
-### AI Engineer | Building Intelligent Systems with LLMs, GraphRAG & FastAPI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There,%20I'm%20Nyasa%20Lohiya%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20@%20Adrta%20Technologies&descAlignY=55&descSize=18" width="100%"/>
 
-I'm passionate about designing AI applications that solve real-world problems using Large Language Models, Retrieval-Augmented Generation (RAG), Graph Neural Networks, and modern backend technologies.
+<a href="https://linkedin.com/in/nyasa-lohiya">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/nyasalohiya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:nyasalohiya1007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Currently exploring how AI can reason, retrieve knowledge, and automate complex workflows.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Building+intelligent+systems+with+LLMs+%26+RAG;Exploring+GraphRAG+%2B+Knowledge+Graphs;Turning+research+ideas+into+working+software" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=nyasalohiya&style=flat-square&color=8B5CF6" alt="profile views"/>
+
+</div>
+
+<br/>
 
 ## 👩‍💻 About Me
 
-🎓 MSc in Information Technology (Data Science)
+```yaml
+role: AI Engineer @ Adrta Technologies
+education: M.Sc. Information Technology (Data Science)
+focus: LLMs · RAG · GraphRAG · Knowledge Graphs · Intelligent Agents
+stack: FastAPI · Python · React · Vector Databases
+mindset: "I don't just use frameworks — I dig into why they work."
+currently: Turning research papers into production-ready AI systems
+```
 
-💻 AI Engineer passionate about building end-to-end AI applications
-
-🧠 Interested in LLMs, RAG, GraphRAG, Knowledge Graphs, and Intelligent Automation
-
-⚡ Enjoy designing scalable backend systems with FastAPI and Python
-
-📚 Always learning new AI technologies and experimenting with practical implementations
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🧠 PersonalAI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered personal assistant built with FastAPI and React.
+### 🧠 [PersonalAI](https://github.com/nyasalohiya/PersonalAi)
+Multi-persona AI assistant combining conversational AI with RAG.
 
-**Highlights**
+`FastAPI` `React` `FAISS` `Voice AI`
 
-- Multi-Persona AI Chat
-- Document Question Answering (RAG)
+- 💬 Multi-Persona AI Chat
+- 📄 Document Q&A
+- 🔍 Semantic Search
+- 🎙️ Voice Interaction
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Vectorless RAG](https://github.com/nyasalohiya/Vectorless_Rag)
+Experimental retrieval pipeline without a traditional vector DB.
+
+`LLM Reasoning` `Lightweight Architecture`
+
+- Alternative Retrieval Pipeline
+- Context-aware Responses
+- LLM-based Reasoning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [FastAPI RAG](https://github.com/nyasalohiya/rag-fastapi)
+Production-ready FastAPI backend for RAG applications.
+
+`FastAPI` `Embeddings` `Modular Architecture`
+
+- Document Processing
 - Semantic Search
-- FAISS Vector Database
-- Voice Interaction
-- FastAPI REST APIs
-- React Frontend
+- Modular Backend Design
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌐 GraphRAG using Graph Neural Networks
+### 🌐 [GraphRAG + GNN](https://github.com/nyasalohiya/graphrag_gnn)
+Research project on Graph Neural Networks for intelligent retrieval.
 
-Graph-based Retrieval-Augmented Generation using Graph Neural Networks.
-
-**Highlights**
+`GNN` `Knowledge Graphs` `PyTorch`
 
 - Graph Construction
-- Node Ranking
-- Context-aware Retrieval
-- Knowledge Graph Search
+- Knowledge Graph Retrieval
+- Context-aware QA
 
-Repository:
-https://github.com/nyasalohiya/graphrag_gnn
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-### 📈 NSE LLM Stock Analysis
+**📈 AI Financial Advisor** — *in progress*
+AI-powered assistant for stock analysis, insights, and investment support using LLMs.
 
-AI-powered stock market analysis platform.
+</div>
 
-**Highlights**
+<br/>
 
-- Technical Indicators
-- AI Insights
-- Portfolio Analysis
-- Financial Visualization
+## 🏗️ Engineering Mindset
 
-Repository:
-https://github.com/nyasalohiya/nse-llm-stock-analysis
+> I enjoy understanding how systems work under the hood — not just using frameworks.
+> Whether it's designing backend architectures, optimizing retrieval pipelines, or building intelligent AI workflows, I focus on solutions that are **scalable, maintainable, and practical.**
+> Good software comes from understanding **why** a system works, not just **how** to build it.
 
----
-
-### 📄 RAG Document QA
-
-Question Answering System using LangChain and Vector Databases.
-
-**Highlights**
-
-- PDF Processing
-- Embeddings
-- Semantic Search
-- Context-aware Responses
-
-Repository:
-https://github.com/nyasalohiya/RAG-Document-QA-LangChain
-
----
+<br/>
 
 ## 💻 Tech Stack
 
-### Languages
+<div align="center">
 
-Python • SQL • Java • JavaScript
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
 
-### AI / ML
+**AI / ML & GenAI**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy
+**Backend & Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,html,css,bootstrap" />
 
-### Generative AI
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
 
-LangChain • RAG • GraphRAG • Prompt Engineering • Google Gemini • Hugging Face
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 
-### Graph AI
+</div>
 
-Graph Neural Networks • GraphSAGE • GCN • GIN • NetworkX
+<br/>
 
-### Backend
+## 📊 GitHub Stats
 
-FastAPI • Django • REST APIs
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=nyasalohiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=nyasalohiya&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-### Frontend
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nyasalohiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-React • HTML • CSS • Bootstrap
+<br/>
 
-### Databases
+## 🔬 Currently Exploring
 
-MySQL • MongoDB • FAISS • ChromaDB
+<div align="center">
 
-### Tools
+| 🌐 GraphRAG Architectures | 🕸️ Knowledge Graphs | 🤖 Intelligent AI Agents |
+|:---:|:---:|:---:|
+| **📚 Production RAG Systems** | **🔍 Playwright UI Automation** | **⚡ Scalable AI System Design** |
 
-Git • GitHub • VS Code • Docker (Learning)
+</div>
 
----
+<br/>
 
-## 🌱 Currently Working On
+## 🎯 Goals
 
-- 🌐 GraphRAG Research
-- 📈 AI Financial Advisor
-- 🔍 Intelligent UI Automation using Playwright
-- 🕸️ Knowledge Graph Retrieval Systems
-- ⚡ Production-ready AI Applications
+- 🚀 Build production-ready AI applications
+- 🌍 Contribute to impactful open-source projects
+- 🧩 Learn scalable AI system design
+- 🕸️ Explore Graph-based Retrieval Systems
+- 📈 Keep improving as an AI Engineer
 
----
-
-## 💡 What I Enjoy Building
-
-- 🤖 AI Assistants
-- 📚 RAG Applications
-- 🧠 Intelligent Automation
-- 🌐 Knowledge Graph Systems
-- ⚡ FastAPI Backends
-- 📊 AI-powered Dashboards
-
----
-
-## 🚀 My Goal
-
-I enjoy turning AI concepts into practical software.
-
-Whether it's an AI assistant, a GraphRAG pipeline, or an intelligent automation tool, I like understanding how systems work internally and building solutions that are scalable, maintainable, and useful.
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn  
-https://linkedin.com/in/nyasa-lohiya
-
-🐙 GitHub  
-https://github.com/nyasalohiya
-
----
+<br/>
 
 ## ⚡ Fun Fact
 
-Most of my projects start with a simple idea... and somehow end up becoming full-fledged AI systems. 😄
+> Most of my projects begin with a simple question — *"Can I build this?"*
+> ...and usually end with a much bigger project than I originally planned. 😄
 
----
+<br/>
 
-⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://linkedin.com/in/nyasa-lohiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/nyasalohiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:nyasalohiya1007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories or connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
