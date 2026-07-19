@@ -46,10 +46,10 @@ Multi-persona AI assistant combining conversational AI with RAG.
 
 `FastAPI` `React` `FAISS` `Voice AI`
 
-- 💬 Multi-Persona AI Chat
-- 📄 Document Q&A
-- 🔍 Semantic Search
-- 🎙️ Voice Interaction
+-  Multi-Persona AI Chat
+-  Document Q&A
+-  Semantic Search
+-  Voice Interaction
 
 </td>
 <td width="50%" valign="top">
@@ -94,9 +94,6 @@ Research project on Graph Neural Networks for intelligent retrieval.
 </table>
 
 <div align="center">
-
-**📈 AI Financial Advisor** — *in progress*
-AI-powered assistant for stock analysis, insights, and investment support using LLMs.
 
 </div>
 
