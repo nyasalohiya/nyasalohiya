@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Building+intelligent+systems+with+LLMs+%26+RAG;Exploring+GraphRAG+%2B+Knowledge+Graphs;Turning+research+ideas+into+working+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&height=110&lines=Hi%2C+I'm+Nyasa+Lohiya+%F0%9F%91%8B;AI+Engineer+%40+Adrta+Technologies;Building+UIVerse+-+Enterprise+Intelligent+UI+Exploration;LLMs+%7C+AI+Agents+%7C+GraphRAG+%7C+FastAPI;From+Research+Papers+to+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=nyasalohiya&style=flat-square&color=8B5CF6" alt="profile views"/>
 
@@ -27,7 +27,11 @@
 ```yaml
 role: AI Engineer @ Adrta Technologies
 education: M.Sc. Information Technology (Data Science)
-focus: LLMs · RAG · GraphRAG · Knowledge Graphs · Intelligent Agents
+focus:
+  - LLMs
+  - AI Agents
+  - GraphRAG
+  - Intelligent Automation
 stack: FastAPI · Python · React · Vector Databases
 mindset: "I don't just use frameworks — I dig into why they work."
 currently: Turning research papers into production-ready AI systems
@@ -41,58 +45,60 @@ currently: Turning research papers into production-ready AI systems
 <tr>
 <td width="50%" valign="top">
 
+### 🌌 [UIVerse](https://github.com/nyasalohiya/UIVerse)
+Enterprise-grade Intelligent UI Exploration Platform for modern web applications.
+
+`Playwright` `FastAPI` `NetworkX` `Python`
+
+- 🧠 Intelligent UI Exploration
+- 🌳 UI State Graph Generation
+- 📸 Smart Screenshot Capture
+- 📄 Enterprise Report Generation
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 [PersonalAI](https://github.com/nyasalohiya/PersonalAi)
 Multi-persona AI assistant combining conversational AI with RAG.
 
 `FastAPI` `React` `FAISS` `Voice AI`
 
--  Multi-Persona AI Chat
--  Document Q&A
--  Semantic Search
--  Voice Interaction
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [Vectorless RAG](https://github.com/nyasalohiya/Vectorless_Rag)
-Experimental retrieval pipeline without a traditional vector DB.
-
-`LLM Reasoning` `Lightweight Architecture`
-
-- Alternative Retrieval Pipeline
-- Context-aware Responses
-- LLM-based Reasoning
+- Multi-Persona AI Chat
+- Document Q&A
+- Semantic Search
+- Voice Interaction
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ [FastAPI RAG](https://github.com/nyasalohiya/rag-fastapi)
-Production-ready FastAPI backend for RAG applications.
+Production-ready FastAPI backend for Retrieval-Augmented Generation systems.
 
-`FastAPI` `Embeddings` `Modular Architecture`
+`FastAPI` `Embeddings` `Python`
 
 - Document Processing
 - Semantic Search
-- Modular Backend Design
+- Modular Architecture
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌐 [GraphRAG + GNN](https://github.com/nyasalohiya/graphrag_gnn)
-Research project on Graph Neural Networks for intelligent retrieval.
+Research project combining Graph Neural Networks with GraphRAG for intelligent retrieval.
 
-`GNN` `Knowledge Graphs` `PyTorch`
+`GraphRAG` `GNN` `PyTorch`
 
-- Graph Construction
-- Knowledge Graph Retrieval
-- Context-aware QA
+- Knowledge Graph Construction
+- Context-aware Retrieval
+- Graph-based Question Answering
 
 </td>
 </tr>
 </table>
-
 <div align="center">
 
 </div>
@@ -117,7 +123,7 @@ Research project on Graph Neural Networks for intelligent retrieval.
 
 **AI / ML & GenAI**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -140,6 +146,7 @@ Research project on Graph Neural Networks for intelligent retrieval.
 
 <br/>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -152,6 +159,18 @@ Research project on Graph Neural Networks for intelligent retrieval.
 </div>
 
 <br/>
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyasalohiya&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br/>
+
 
 ## 🔬 Currently Exploring
 
@@ -175,12 +194,10 @@ Research project on Graph Neural Networks for intelligent retrieval.
 
 <br/>
 
-## ⚡ Fun Fact
+## 💡 Engineering Philosophy
 
-> Most of my projects begin with a simple question — *"Can I build this?"*
-> ...and usually end with a much bigger project than I originally planned. 😄
-
-<br/>
+> I enjoy understanding systems from first principles rather than treating frameworks as black boxes.
+> Whether I'm building AI agents, GraphRAG pipelines, or intelligent UI exploration platforms, my goal is to create software that is scalable, maintainable, and solves real-world problems.
 
 <div align="center">
 
